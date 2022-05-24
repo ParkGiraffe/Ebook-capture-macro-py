@@ -3,11 +3,11 @@
 
 import sys
 from PyQt5.QtWidgets import QProgressBar,QMainWindow, QFileDialog,QInputDialog,  QApplication, QWidget, QPushButton, QToolTip, QAction, qApp, QFileDialog
-# from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QIcon
 import pyautogui
 import time
 from pynput import mouse
-# import PyQt5
+import PyQt5
 from PIL import Image
 
 page = 0   # 찍을 페이지 수  
