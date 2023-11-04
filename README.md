@@ -2,14 +2,6 @@
 
   
 
-### 제작동기 : EBook회사들의 drm횡포로 인해 아이패드에서 필기하면서 책을 읽을 자유를 잃어버린 것에 대한 반항심을 갖고 만듦.
-
-  
-
-### 목적 : 전용 프로그램으로만 열리는 EBook pdf, epub파일의 모든 페이지를 캡쳐한 후 pdf로 다시 모아주기 위함
-
-  
-
 ### 레퍼런스 : https://infinitt.tistory.com/291
 
 [](https://infinitt.tistory.com/291)
